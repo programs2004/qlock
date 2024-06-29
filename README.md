@@ -2,6 +2,8 @@
 
 A Quine Clock written in C inspired by [Aem1k's Qlock](https://aem1k.com/qlock/).
 
+![capture](https://github.com/programs2004/qlock/assets/36892525/d4130c86-82ad-4069-a90b-ab29b757e9d6)
+
 ## Build
 
 ```bash
